@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Testing">
-    <test name="">
+    <test name="test">
         <classes>
-            <class name=""/>
-            <class name=""/>
-            <class name=""/>
+            <class name="project"/>
         </classes>
     </test>
 </suite>
